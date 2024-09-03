@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.dialect."
+    },
+    {
+      "name": "jakarta.persistence.jdbc.url",
+      "type": "java.lang.String",
+      "description": "Description for jakarta.persistence.jdbc.url."
+    },
+    {
+      "name": "spring.jpa.entity.scan.base-packages",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.entity.scan.base-packages."
+    }
+  ] }
